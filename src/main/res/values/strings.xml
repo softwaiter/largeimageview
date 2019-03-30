@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="imagepreview_app_name">ImagePreview</string>
+    <string name="imagepreview_img_desc">这是图片</string>
+    <string name="imagepreview_image_preivew_title">图片</string>
+    <string name="imagepreview_split_symbol">&#160;/&#160;</string>
+    <string name="imagepreview_save_menu_item">保存到手机</string>
+    <string name="hint_save_succ">保存成功</string>
+    <string name="hint_image_saved" formatted="false">　　图片已经保存成功，保存路径 %s</string>
+
+    <string name="imagepreview_tag_view_state"></string>
+    <string name="imagepreview_tag_image_url"></string>
+
+</resources>

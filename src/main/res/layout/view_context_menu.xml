@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dip"
+    android:gravity="right"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/list_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="7.6dip"
+        android:paddingRight="7.6dip"
+        android:fadingEdge="none"
+        android:longClickable="true"
+        android:scrollbarSize="0sp"
+        android:scrollbarStyle="insideOverlay"
+        android:background="#CD212626"
+        android:dividerHeight="1px"
+        android:divider="#212626"
+        android:listSelector="#D0212626"
+        android:cacheColorHint="#00000000" >
+
+    </ListView>
+
+</LinearLayout>
